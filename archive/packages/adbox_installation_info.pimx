@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package_installation_info version="2.0">
+	<packageid>9A7EBE6C-BD2B-4425-BB65-ED62F58F4E18</packageid>
+	<name>ADBox</name>
+	<version>6.7.0.275</version>
+	<target_location>/ADBox/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>ADBox</name>
+			<assets_size>129464</assets_size>
+			<validation_info><validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIj8+PFZhbGlkYXRpb25JbmZvPjxGaWxlPjxJbnN0YWxsUGF0aD5c
+U2V0LXVwLmV4ZTwvSW5zdGFsbFBhdGg+PFNpZ25hdHVyZVR5cGU+RGlnaXRhbFNpZ25hdHVyZTwv
+U2lnbmF0dXJlVHlwZT48U2lnbmF0dXJlSW5mbz5BZG9iZSBJbmMue3x9RGlnaUNlcnQgVHJ1c3Rl
+ZCBHNCBDb2RlIFNpZ25pbmcgUlNBNDA5NiBTSEEzODQgMjAyMSBDQTF7fH1EaWdpQ2VydCBUcnVz
+dGVkIFJvb3QgRzR7fH1EaWdpQ2VydCBBc3N1cmVkIElEIFJvb3QgQ0E8L1NpZ25hdHVyZUluZm8+
+PC9GaWxlPjwvVmFsaWRhdGlvbkluZm8+
+</validation_xml>
+				<sig>cr3QNCJj8l2IJP4cYwpfOjjo5F+ij3buy4ASC5Yar9aGxz6Y6v6nCf5OlsyMDJ1FYmLIEVicezhOp4H1hldGUb+IRJ5R2rv/325BGQvYApxPzlz+SYuzlItHtGwpwWhAqdBfs+xMypvA/4H1+3wR6W/6qWCwVVQG/LHes/TIfzjc5tFgrZdsemjckzeXbE+MRVBwzyZ8ORDXN5mAzKNsiHyMBBiXcywkwYeR8mEy4bnJnad6p+2gG2uEZl2FMIF/r/q7pTedW7K+si28xsxivmWcgzL615Mjc/En4Zp9vAgP6ukBAi8Q33YjFwtE1/DUa0kPWOfyuL5DWqjMx0/wZEBY+bOBSpToRPIh8KhFA7HMgdFJENY+SMCDsYe2IxRXjOCETGvTSzDe1RQGiT+52UcqNkP8dgxqWTeBxOoOHa04EwYJaZXqP8ltnmPQ1BeNFbLl30mz728Fr5vuAmRBD8M1TzH95aF8Qy8Xr+jC0vmR4gECEBXMBwIPcpUB7OB1</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<package_installation_info version="2.0">
+	<packageid>45D1AE41-420E-4239-8B1E-F35CB4BD671C</packageid>
+	<name>AdobeGenuineClient</name>
+	<version>6.7.0.1</version>
+	<target_location>/AdobeGenuineClient/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>AdobeGenuineClient</name>
+			<assets_size>7322579</assets_size>
+			<modifiers>
+				<install_modifier>
+					<executable_path>customhook/gccustomhook</executable_path>
+					<arguments>
+						<argument>--source=ADC</argument>
+						<argument>--workflow=1</argument>
+					</arguments>
+				</install_modifier>
+				<uninstall_modifier>
+					<executable_path>customhook/gccustomhook</executable_path>
+					<arguments>
+						<argument>--source=ADC</argument>
+						<argument>--workflow=4</argument>
+					</arguments>
+				</uninstall_modifier>
+			</modifiers>
+			<validation_info><validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIj8+PFZhbGlkYXRpb25JbmZvPjxGaWxlPjxJbnN0YWxsUGF0aD5c
+QUdTU2VydmljZS5leGU8L0luc3RhbGxQYXRoPjxTaWduYXR1cmVUeXBlPkRpZ2l0YWxTaWduYXR1
+cmU8L1NpZ25hdHVyZVR5cGU+PFNpZ25hdHVyZUluZm8+QWRvYmUgSW5jLnt8fURpZ2lDZXJ0IFRy
+dXN0ZWQgRzQgQ29kZSBTaWduaW5nIFJTQTQwOTYgU0hBMzg0IDIwMjEgQ0Exe3x9RGlnaUNlcnQg
+VHJ1c3RlZCBSb290IEc0e3x9RGlnaUNlcnQgQXNzdXJlZCBJRCBSb290IENBPC9TaWduYXR1cmVJ
+bmZvPjwvRmlsZT48RmlsZT48SW5zdGFsbFBhdGg+XGN1c3RvbWhvb2tcZ2NjdXN0b21ob29rLmV4
+ZTwvSW5zdGFsbFBhdGg+PFNpZ25hdHVyZVR5cGU+RGlnaXRhbFNpZ25hdHVyZTwvU2lnbmF0dXJl
+VHlwZT48U2lnbmF0dXJlSW5mbz5BZG9iZSBJbmMue3x9RGlnaUNlcnQgVHJ1c3RlZCBHNCBDb2Rl
+IFNpZ25pbmcgUlNBNDA5NiBTSEEzODQgMjAyMSBDQTF7fH1EaWdpQ2VydCBUcnVzdGVkIFJvb3Qg
+RzR7fH1EaWdpQ2VydCBBc3N1cmVkIElEIFJvb3QgQ0E8L1NpZ25hdHVyZUluZm8+PC9GaWxlPjwv
+VmFsaWRhdGlvbkluZm8+
+</validation_xml>
+				<sig>JtX61H0LGhvR6p5RPFdtq/j69i/OgWw5XcLC8DZPm3vKNS4Wpq/luufMAY2JFE3zsy9FqmD5DuZRdAtuaJBCMXck+uAzolsEo3hcu0eZWVV32eO0qJVyeEv+CAElTo84TLybtYyL4i2vA4ixYXY1Jyh+28MG0BT0n4srEX35iiGZniw6lN4LvwZ+2xifa9bJQ2ue94IdTAhbODTl6W82b6Ewc4gFl/cnUmjS2aqtf+P8CMHxABRE3suQ0cFY+2sRsItuVpxi7f5cZdtsYWBwa/bcvRWZhyXG6gBAB0vGV0a2magudVccWbOm5Vk8KrH8kMn5buXOK1501ShGbReklAdGyUz3LYXP2KitmsBfI1ku/n4rHxZZJpmfDtSKWbof9ywN+je4T0bGIIxueEurkCqiPy2wVNtlND64YQZhkFENNEaLmBtU196c5WDWFvgK35p5jYGqIsaBCt6utGtPqC+Sqpl+4xvLC8n2cx153tmDPSyYLzDqoiYOUL3VYeEN</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

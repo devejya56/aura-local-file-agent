@@ -1,0 +1,3 @@
+[autorun]
+open=Autoplay.exe -auto
+icon=AutoPlay\resdata\Autoplay.ico

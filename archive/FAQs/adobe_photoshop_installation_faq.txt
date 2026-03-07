@@ -1,0 +1,32 @@
+Question: I can't click the "Continue" button because the window contents don't fit within the window itself, and the button is out of sight. What should I do?
+Answer: This happens occasionally on poorly configured operating systems. There's a TAB key on your keyboard. Use it to navigate to the desired menu item.
+
+Question: When I launch the installation, I get the error "SSE 4.2 or later." What should I do?
+Answer: According to Adobe , Photoshop 2021 and later requires a processor with support for SSE 4.2 or later. Unfortunately, if your processor doesn't support this architecture, this version of Photoshop will not run on your computer.
+
+Question: The installation was not completed due to an unknown error. What should I do?
+Answer: Please review the error code explanation (https://helpx.adobe.com/ru/creative-cloud/kb/troubleshoot-download-install-logs.html) . I also recommend reviewing the installation log. It is located at C:\Program Files (x86)\Common Files\Adobe\Installers\Install.log. You may find more detailed information about the problem and how to resolve it there.
+
+Question: What about the cures for this version of the program?
+Answer: The build was patched using the work of uncia & CGP Co. A number of files were patched, which I then integrated into the installer. You don't need to do anything to cure it! Just in case, the original files are saved with the *.bak extension. If you want to get the original, uncured product, simply remove this extension from these files and replace the existing patched files with them.
+
+Question: What about disabling spyware modules?
+Answer: The CRLog Transport Application (CRLogTransport.exe) and Adobe Crash Processor (Adobe Crash Processor.exe) spyware modules are disabled. Just in case, the files that initialize them are saved with the *.bak extension. If you ever want to restore their functionality, simply remove this extension from these files. The crack included in the build also removes Adobe Genuine Service if this module was previously installed with other Adobe programs (this module is not installed with this build).
+
+Question: When opening the program, I get the message "An unrecoverable problem has occurred. Photoshop will now exit." What's wrong?
+Answer: This version of the program has this issue. The problem occurs when trying to run the program under Windows 10 installed in a virtual machine. And yes, I know that Photoshop 2025 claims to support Windows 10 22H2 and LTSC 21H2. But, alas, the program no longer runs on Windows 10 virtual machines. Everything works fine with Windows 11!
+
+Question: When opening a program, I get the error "Adobe Creative Cloud, needed to resolve the problem, is missing or damaged...". What should I do?
+Answer: You have leftover installations of Adobe Creative Cloud components on your system. These need to be removed. To do this, use the Adobe Creative Cloud Cleaner Tool(https://swupmf.adobe.com/webfeed/CleanerTool/win/AdobeCreativeCloudCleanerTool.exe) . Select "All" as the component to remove, then "Adobe Creative Cloud Desktop". Then, reinstall the offending program. This cleanup and reinstallation will not damage any previously installed programs.
+
+Question: What do I need to do to access cloud storage and other online services?
+Answer: To do this, connect to the Adobe server with your ID by selecting "Help->Sign In" from the program menu and logging in. I strongly recommend closing the window prompting you to launch the trial version. Online services will be available after restarting the program.
+
+Question: I'm unable to download neurofilters. Why?
+Answer: If you're being denied downloading neurofilters, delete the folder C:\Users\<username>\AppData\Roaming\Adobe\UXP\PluginsStorage\PHSP\26\Internal\com.adobe.nfp.gallery\PluginData. See the number 26 in the path? If you have folders 25, 24, and so on in addition to 26, you need to delete them too! Afterward, restart the program – the filters should start downloading. I recommend downloading all the necessary filters at once, because deleting this folder also deletes all previously downloaded neurofilters.
+
+Question: My Generative AI isn't working. Is there a way to resolve this?
+Answer: Only paid subscribers can use generative tools. Even then, they have a limit on the number of generations. You can also use generative tools during a free 14-day trial period. So, if you really need generative tools, register a new business account (https://www.adobe.com/creativecloud/business/teams/free-trial-download.html) (14-day trial vs. 7-day trial for personal accounts) and activate the trial period. Then, log in to the program using the "Help->Sign In" menu. After 14 days, register a new ID. Continue doing this until you're done. Unfortunately, there are currently no other options. For residents of the Russian Federation, the process is somewhat more complicated. Since Adobe has officially withdrawn from Russia, you'll need to use a VPN both during registration and while using generative tools. And not just in your browser! You need a VPN that intercepts internet connections and those of other programs on your computer, particularly Adobe applications. Oh, and before registering a new account, don't forget to log out of your old one, both in your programs and your browser. It's also a good idea to clear cookies for the Adobe website in your browser. That's all! Please don't bother me with any questions about generative options.
+
+Question: I want to use Photoshop with two or more interface languages ??and be able to switch between them natively. Is this possible?
+Answer: Reinstall the program in a different language directly over the existing one. After that, you'll be able to change the interface language using the native switch in the menu "Edit->Preferences->Interface...->UI Language."

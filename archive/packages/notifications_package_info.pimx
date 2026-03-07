@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<package_installation_info version="2.0">
+	<packageid>0FA6AE8B-0C67-4189-9CC0-068895B0FD37</packageid>
+	<name>Notifications</name>
+	<version>6.7.0.278</version>
+	<target_location>/Notifications/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>Notifications</name>
+			<assets_size>10581652</assets_size>
+			<applet_registration_info>
+				<applet_registration_element>
+					<name>ANSClient</name>
+					<type>CoreExt</type>
+					<version>1.0</version>
+					<module_path>/Notifications/ANSClient.dll</module_path>
+					<display_name>ANSClient</display_name>
+				</applet_registration_element>
+				<applet_registration_element>
+					<name>NotificationManager</name>
+					<type>CoreExt</type>
+					<version>1.0</version>
+					<module_path>/Notifications/NotificationManager.dll</module_path>
+					<display_name>Notification Manager</display_name>
+				</applet_registration_element>
+				<applet_registration_element>
+					<name>TrayNotificationManager</name>
+					<type>CoreExt</type>
+					<version>1.0</version>
+					<module_path>/Notifications/TrayNotificationManager.dll</module_path>
+					<display_name>Tray Notification Manager</display_name>
+				</applet_registration_element>
+				<applet_registration_element>
+					<name>HomePanel</name>
+					<type>BL</type>
+					<version>1.0</version>
+					<module_path>/Notifications/HomePanelBL.dll</module_path>
+					<display_name>HomePanel Applet BL Element</display_name>
+				</applet_registration_element>
+			</applet_registration_info>
+			<applet_relationship_info>
+				<applet_relationship_element>
+					<name>HomePanel</name>
+					<type>BL</type>
+					<version>1.0</version>
+					<relationship>PanelOf</relationship>
+					<relative_name>C3Container</relative_name>
+					<relative_type>BL</relative_type>
+					<relative_version>1.0</relative_version>
+					<relative_order>1000</relative_order>
+				</applet_relationship_element>
+			</applet_relationship_info>
+			<validation_info><validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIj8+PFZhbGlkYXRpb25JbmZvPjxGaWxlPjxJbnN0YWxsUGF0aD5c
+QU5TQ2xpZW50LmRsbDwvSW5zdGFsbFBhdGg+PFNpZ25hdHVyZVR5cGU+RGlnaXRhbFNpZ25hdHVy
+ZTwvU2lnbmF0dXJlVHlwZT48U2lnbmF0dXJlSW5mbz5BZG9iZSBJbmMue3x9RGlnaUNlcnQgVHJ1
+c3RlZCBHNCBDb2RlIFNpZ25pbmcgUlNBNDA5NiBTSEEzODQgMjAyMSBDQTF7fH1EaWdpQ2VydCBU
+cnVzdGVkIFJvb3QgRzR7fH1EaWdpQ2VydCBBc3N1cmVkIElEIFJvb3QgQ0E8L1NpZ25hdHVyZUlu
+Zm8+PC9GaWxlPjxGaWxlPjxJbnN0YWxsUGF0aD5cSG9tZVBhbmVsQkwuZGxsPC9JbnN0YWxsUGF0
+aD48U2lnbmF0dXJlVHlwZT5EaWdpdGFsU2lnbmF0dXJlPC9TaWduYXR1cmVUeXBlPjxTaWduYXR1
+cmVJbmZvPkFkb2JlIEluYy57fH1EaWdpQ2VydCBUcnVzdGVkIEc0IENvZGUgU2lnbmluZyBSU0E0
+MDk2IFNIQTM4NCAyMDIxIENBMXt8fURpZ2lDZXJ0IFRydXN0ZWQgUm9vdCBHNHt8fURpZ2lDZXJ0
+IEFzc3VyZWQgSUQgUm9vdCBDQTwvU2lnbmF0dXJlSW5mbz48L0ZpbGU+PEZpbGU+PEluc3RhbGxQ
+YXRoPlxOb3RpZmljYXRpb25NYW5hZ2VyLmRsbDwvSW5zdGFsbFBhdGg+PFNpZ25hdHVyZVR5cGU+
+RGlnaXRhbFNpZ25hdHVyZTwvU2lnbmF0dXJlVHlwZT48U2lnbmF0dXJlSW5mbz5BZG9iZSBJbmMu
+e3x9RGlnaUNlcnQgVHJ1c3RlZCBHNCBDb2RlIFNpZ25pbmcgUlNBNDA5NiBTSEEzODQgMjAyMSBD
+QTF7fH1EaWdpQ2VydCBUcnVzdGVkIFJvb3QgRzR7fH1EaWdpQ2VydCBBc3N1cmVkIElEIFJvb3Qg
+Q0E8L1NpZ25hdHVyZUluZm8+PC9GaWxlPjxGaWxlPjxJbnN0YWxsUGF0aD5cVHJheU5vdGlmaWNh
+dGlvbk1hbmFnZXIuZGxsPC9JbnN0YWxsUGF0aD48U2lnbmF0dXJlVHlwZT5EaWdpdGFsU2lnbmF0
+dXJlPC9TaWduYXR1cmVUeXBlPjxTaWduYXR1cmVJbmZvPkFkb2JlIEluYy57fH1EaWdpQ2VydCBU
+cnVzdGVkIEc0IENvZGUgU2lnbmluZyBSU0E0MDk2IFNIQTM4NCAyMDIxIENBMXt8fURpZ2lDZXJ0
+IFRydXN0ZWQgUm9vdCBHNHt8fURpZ2lDZXJ0IEFzc3VyZWQgSUQgUm9vdCBDQTwvU2lnbmF0dXJl
+SW5mbz48L0ZpbGU+PC9WYWxpZGF0aW9uSW5mbz4=</validation_xml>
+				<sig>gAek0ZDoJeNMZhfHmr5sFrSoSKsxlMWuf2KCGQjE8DAoQcJoDrJ6KiENdhkuM3JbvGWM7g+ZViHYLMq32wtvJyFhAb3R4MND1Llmhm7eg7dniIe5VKkTbIfM4nWUWqcsE023iksv8ETIlsovIYAxAWmbRFIy1jqpvSPBG+I0msTfg96hCnuPDpFk+0gDwJSrXyEHqniCpI1lzeM53aI/gnAjGjvBaPB341s0UpqGGvv41W8sEf40f5fGvgyFXwpAf+8jWvXnjqQ4cms96oTGdflzV6UoSMxn9458vZWtElEuXyNLjb+wlZ4/TJRdbhNbkLqv/vxzTKMOOMRsq7FjYrmtnpVgGBSxuj3uo7SND0QANTIb9QQPoSmhY71jGkM+WXZ+W+o+dGEBCNpbi8UekRccgoev2ARny2gNjU5ILjtFeCErbt4UqI2uWEeHtB5NTWiJ7fzSQceskeo52NujDdg43WGBzT8UggzzRtLnqsrC5ElyCg9eKc5MCUYqAqWi</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

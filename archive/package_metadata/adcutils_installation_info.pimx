@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package_installation_info version="2.0">
+	<packageid>720CEAD4-86B5-4B0D-82F6-EB2FE7A84457</packageid>
+	<name>ADCUtils</name>
+	<version>6.7.0.278</version>
+	<target_location>/ADCUtils/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>ADCUtils</name>
+			<assets_size>2843048</assets_size>
+			<validation_info><validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIj8+PFZhbGlkYXRpb25JbmZvPjxGaWxlPjxJbnN0YWxsUGF0aD5c
+Q0MgVHJvdWJsZXNob290ZXIuZXhlPC9JbnN0YWxsUGF0aD48U2lnbmF0dXJlVHlwZT5EaWdpdGFs
+U2lnbmF0dXJlPC9TaWduYXR1cmVUeXBlPjxTaWduYXR1cmVJbmZvPkFkb2JlIEluYy57fH1EaWdp
+Q2VydCBUcnVzdGVkIEc0IENvZGUgU2lnbmluZyBSU0E0MDk2IFNIQTM4NCAyMDIxIENBMXt8fURp
+Z2lDZXJ0IFRydXN0ZWQgUm9vdCBHNHt8fURpZ2lDZXJ0IEFzc3VyZWQgSUQgUm9vdCBDQTwvU2ln
+bmF0dXJlSW5mbz48L0ZpbGU+PC9WYWxpZGF0aW9uSW5mbz4=</validation_xml>
+				<sig>RzMau7/DCuSKwH2zLWALuokwOTsSAE18Xj0cDecriHo2PsQqa918xD+rBtms3FbXIo0ZPGYo4ZSZ/9oefmxTRtFIDHP7SULiUX9tDivl0T0Dxp6UTCd219cJnRtTJ329Op/mrVg5J5n2wTv7fM6h8/PoOPdQRS0s4R036tX2uiYNHwra9wRQAI7PsM+ezMIbh0/Uv3fnapPfnGuxEZUNfjaRnlw1jBqK+Jx9RwVjiMEm/rRJg317Gv82tYpm5EgesETCfQ5mm2pq9n5kDNGr8dRIRBk8R/hHGVRwoUd7fQ3xstrDK+Y7nOZflZQAy1gmcuXruNylKxgogrVSExzn4qMieHVDD4uXhiWo8GnA0cZ8MbFHgLu7OjIwJWkKsMaUyVnBWiXgXZ2wj0AXsdbic7KOV5jNr8PkY4Dno0rW/Qsg7ezk57psQq3fX6mR91rb+XGkB3xDUtEZtuXoTtL2SBjlaLrQoHBZmZ/MbgK/iTEq3DQunTfwYtjgBPib48od</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

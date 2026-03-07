@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package_installation_info version="2.0">
+	<packageid>281BCA6A-4302-46BC-BF1C-7AE8CDF312AA</packageid>
+	<name>Tools</name>
+	<version>6.7.0.278</version>
+	<target_location>/Components/Tools/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>Tools</name>
+			<assets_size>1660542</assets_size>
+			<validation_info><validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIj8+PFZhbGlkYXRpb25JbmZvLz4=</validation_xml>
+				<sig>fNBMkBlQ237sO8uAyLS6XVP5BAWfnD+PXSerGnUmsvU+WdS0tojohYn/PR9TsOH2MhdMyVxSeTqkWYaRMOHaVNe/5hU6q5R9y9p222zeaUhgD5zkCRImmrssKT6IHcK1LdIheggGMKRG0xUxL83TXmFmaYVRkjsD4+MfGWxIHZKYQWEvTwv+0Mt3TmWjEbrh/Waq3X5v/IIt6w5kvMozc5MICkKj6as6Cb4jLBgSgx9DQvVBtP+uGp6dq1fZk9VByl3nTbOy061vft4fK/7K1JLtkGf9o132TbvEPhxA5Z8MrMkd0WP0EyX9Olyzv2fXudtY4p1D2M5l+HtFP5qbRJ+TYFOGksf6M75twcuHKaEwwIlreCa4qIElumCGyYukNrNiHXyC78kEp8O500vi0LGTjzGCDyDOIz5fleL+Bmntj2HjSq8ymoaXhgAhKqdOmPMTP8XycOEYGvmLT7Zi0/WmGP+xms+Krw0tVKPdrtr5Uoe8YxBJtL+/J33/npBM</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

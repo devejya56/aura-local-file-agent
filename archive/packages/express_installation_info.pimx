@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package_installation_info version="2.0">
+	<packageid>9E9EC429-5CEB-461E-A40A-1F1E444DD5ED</packageid>
+	<name>Express</name>
+	<version>6.7.0.278</version>
+	<target_location>/Components/Express/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>Express</name>
+			<assets_size>27996010</assets_size>
+			<validation_info><validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIj8+PFZhbGlkYXRpb25JbmZvLz4=</validation_xml>
+				<sig>jb4B+azvDgBtPC8V62npKnju5Ykm0qf9gCpm+TSA4TkfhGEcnakjHl4lcGTj8f7TxVmm/i9oWc3xEI7uAB8Kn2QohFI3jTz0I6dnOXtMIIssJrVJ2te7tdhqQPGpU3gCV9CPMKWtvU7HzMF4q/g2YAtwfczMNlf16lI37209BFulOZNq6WUB0H28HGGy3QQO+iB5J9UPIdKh8Kd8RXtBcn5AIMKxBbgY/D3Cv2iRy5H6zIX3JlEvljDLIKYnGxPGOZsxfMs3sD+J8cJyJGYzSE3mT4ELuOxvi0bMWcXhtbvhKVjWefLzatYRk0+DpUKpFX8vqyr1TeXV3EK2fEMBYJ5KPxr5k4ehjzUud6pAMF+A+ExY2pye1cHr63ciJoPSEGKD4wvqBTcSd8QsXrKSmT0M2MzYgsOAf94t5Fe4Vl7N8sED4TxJdLR9OgHsmF4H7bCinRQcaBcol3IBamg/9UIm76hC55DEhr20zKecedhvFa6UwsCWB/7lL5LXVtl8</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

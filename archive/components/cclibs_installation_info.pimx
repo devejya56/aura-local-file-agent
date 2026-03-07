@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package_installation_info version="2.0">
+	<packageid>23232370-0575-4EFE-9F77-83DD1BF09998</packageid>
+	<name>CCLibs</name>
+	<version>4.10.73.0607000278</version>
+	<target_location>/Components/CCLibs/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>CCLibs</name>
+			<assets_size>43951267</assets_size>
+			<validation_info><validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIj8+PFZhbGlkYXRpb25JbmZvLz4=</validation_xml>
+				<sig>OCfhDCbwuhxRH7gCTzE4h3ifhi3U2u6rFNRpBVeO8yjlLrPEDNXVdZQhenZOv3j9u/RUorKT4ALmoRQCIeyMkEi4lNpe0dFBj++MVHoWjRK/GDvGUcs+jlF2pepuAXEFezcD1SqY2ehLvv2dkTufxsZzBfrIptB5QdH4z/CgiYKwkq8UWe8ENh8uHjlPyKGNL6YbbS1i6z9eMpxfo1l9KfLRZUqcrfjeRz1v3TZ7lqd7v9mC2VmGsxL4a4MegE4NCJ9m9s07Q8mRDiP+MLqhIBBcLqVCptyJMK7FHEEyQtIu2yurD9nDmp9h6o9epetWLHpopAea4uvmfRyYNckqM525BeM15QU7DWOm7uT9HPsZR3dLXNGPQjuAhsfl+eyhgzxwNx2aXq4L2U67kF5jF0d0LUdDbt1QWlQlNYoFyn4FU2DNUb7IbOmau86NFT18NI3UXZmxN4VVOP2F+5vkAo7QpY7SMqWT8gpukSVx923gSc/xNfP6USTnD9hjZFdv</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

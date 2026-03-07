@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package_installation_info version="2.0">
+	<packageid>886F9BA8-3DFD-406B-82AE-368C2F73B8FE</packageid>
+	<name>CloudSync</name>
+	<version>6.7.0.278</version>
+	<target_location>/Components/CloudSync/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>CloudSync</name>
+			<assets_size>808747</assets_size>
+			<validation_info><validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIj8+PFZhbGlkYXRpb25JbmZvLz4=</validation_xml>
+				<sig>Z2ycTWYEJPoi8jS6imBh/LV47gFMVk6+Bg5m7WiF0k009rTyvjjMDm2H5h06X34/EHSJ8HyeWhgWORTg0+U2QgKyPEEi+ziaXXGsb4KqLBAfomDmteOKIkj7SNliZFIzHmmXxeHtND/ze8aCUgYErdSGpJ31OUIbPuKUaP1QvaxAqsaQGOfZomEjOzXmxcc/BUJpLKGyRFfU5PYWOjADGMLmh/bQYhxM3uieU3UdJl3CCQOhsMbsfYT4bZfjlahuLDA7y97t/VSMRLIDo8nwa+Z1hHvvwvczzWqxJD5zO8XoMLEKHYvOxGFM5iah6NzQ18g4mfVNr5ZrXnY/xYcLl9A2vAo6Fvq48Ngm6P02aJt5iwkKGd1mYPI4z9PBarSRgSBvxQVbKQFaok0oQZ/qKCIRn3X5kpqWk7RQYaoIVhGzHcb2V9tiFoEPrbhJG+6BpPex0f9a0cIMEqzLyZ7uURNd4V+560SEMPayAlWvK30E6z/St+FQiOd01lWs/SRm</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

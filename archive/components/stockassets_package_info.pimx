@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package_installation_info version="2.0">
+	<packageid>518FF75D-2C26-4012-8589-73D8EEB9D75C</packageid>
+	<name>StockAssets</name>
+	<version>6.7.0.278</version>
+	<target_location>/Components/StockAssets/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>StockAssets</name>
+			<assets_size>4240138</assets_size>
+			<validation_info><validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIj8+PFZhbGlkYXRpb25JbmZvLz4=</validation_xml>
+				<sig>iJ2Duk2G2fNpGL31C3aL5M+QUlo2zGtuWAQOxZNlVVIjKld8Oc+tepz1GCImJZevMoKJRnD30+me0GacI/a9bZ6q6tw78emKDFVapfMBxUI+My7HLeov1dZFfLkB6igGccaRdTyg4B+E0Azwt1zDCGvhfgELD5MouBB6s9N2eSphASLhULjeJzzL3qaUoL4PqyflUQAewyieeYQy1dAxdQHQ+wVOKo4RihwKtZyxRrjoci0G7YHC/ecAzyzEWaw4QuOEHW18sZ7BLu8lCz6RtFZQfGD/Xv0E/7x3qmUUHlIUFelEKq8+2V9sGhw3qZTyZ0fJp7DcWs1yOvXxt5znoRy1slZWw6POBI1fj/soLQahraEjosS4FENtu8RVuoe0ZDLLXSGL3m7Xrc0ipN/QnBgYC8jB4sQKHDR9ofQofgN9fhliRQGNaN1lf8DBZJ0eEauvEYNKHzXKw8uHETUXou5a34+FbV9G1Nij+8at2YiBDCPejQlQu8y1J7zUPgQA</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>
